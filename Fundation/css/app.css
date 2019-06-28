@@ -1,0 +1,103 @@
+.caa{
+  border: 1px solid black;
+}
+
+body{
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-position: 0px;
+}
+
+p{
+  font-size: 14px;
+  text-align: center;
+  color: white
+}
+
+li{
+  color: white;
+  font-size: 12px;
+}
+
+h1{
+  color: white;
+}
+
+h3{
+  color: white
+}
+
+h5{
+  color: white
+}
+
+.fondo{
+  background-color: rgb(107, 136, 0,0.3);
+}
+
+.nav-logo{
+  height: 120px;
+  border-right: 1px solid white;
+  margin-bottom: 10px;
+}
+
+.logo{
+  width: 100px;
+}
+
+.slogan{
+  text-align: right;
+  font-size: 22px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  color: white;
+}
+
+
+.fi-page-search{
+  font-size: 30px;
+  text-align: center;
+}
+.menu-texto{
+  box-shadow: 0px 1px 1px black;
+}
+
+.menu-forma{
+  color: white;
+  text-align: center
+}
+
+.menu-forma:hover{
+  color: black;
+}
+
+.borde{
+  border-top: 1px solid white;
+}
+
+.padding{
+  padding: 10px;
+}
+
+.izquierda{
+  background-color: rgb(213, 162, 107,0.8);
+}
+
+.favoritos{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.text-historial{
+  text-align: center;
+}
+
+.img-receta{
+  width: 60%;
+  text-align: center;
+}
+
+.noticias{
+  background-color: rgb(213, 162, 107,0.8);
+  margin-bottom: 10px;
+}

@@ -1,0 +1,36 @@
+body{
+  background-color: orange;
+
+}
+
+.color{
+  background-color: white;
+}
+
+.logo_portada{
+  width: 120px;
+}
+
+.nav-link{
+  color: orange;
+  background-color: white;
+}
+
+.nav-link:hover{
+  color: black;
+}
+
+.nav-item{
+  padding: 10px;
+}
+
+.img_texto{
+  width: 100%
+}
+
+@media (max-width: 576px) {
+  .busqueda{
+    visibility: hidden;
+  }
+
+}
