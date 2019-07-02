@@ -15,8 +15,20 @@
   color: red !important;
 }
 
+.titulo-art{
+  color: white;
+  text-shadow: 1px 1px 3px black; 
+}
+
+p{
+  color: white;
+  text-shadow: 1px 1px 3px black;
+}
+
 .contenido{
-  background-color: blue
+  background-image: url("../img/1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed
 }
 
 .texto-articulo{
