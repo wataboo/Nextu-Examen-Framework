@@ -1,0 +1,42 @@
+.nav-logo{
+  width: 120px;
+}
+
+.redes{
+   width:100%;
+   padding: 10px;
+}
+
+.fotos{
+  width: 20%
+}
+
+.card-title{
+  color: red !important;
+}
+
+.contenido{
+  background-color: blue
+}
+
+.texto-articulo{
+  display: inline;
+}
+
+
+@media only screen
+  and (min-width: 320px)
+  and (max-width: 736px)
+{
+  .nav-center{
+    text-align: center
+  }
+
+  .redes{
+    width: 30%
+  }
+
+  .fotos{
+    width: 100%;
+  }
+}
